@@ -270,10 +270,10 @@ gantt
 ```
 
 ## UCC CHABIT
-** Full Ver. https://youtu.be/_UvQ4FGphfI **
+**Full Ver. https://youtu.be/_UvQ4FGphfI**
 
-** Light Ver. https://youtu.be/TpePj0ehrXI **
+**Light Ver. https://youtu.be/TpePj0ehrXI**
 
 
 ## 1차 공통 프로젝트 회고
-** https://www.notion.so/1-961ababbeced4693839e15be69c383d5 **
+**https://www.notion.so/1-961ababbeced4693839e15be69c383d5**
