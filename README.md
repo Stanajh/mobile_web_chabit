@@ -269,5 +269,11 @@ gantt
    챌린지 종료 알고리즘 구현 :active, back4, 2021-02-08, 1d
 ```
 
+## UCC CHABIT
+** Full Ver. https://youtu.be/_UvQ4FGphfI **
+
+** Light Ver. https://youtu.be/TpePj0ehrXI **
+
+
 ## 1차 공통 프로젝트 회고
-### https://www.notion.so/1-961ababbeced4693839e15be69c383d5
+** https://www.notion.so/1-961ababbeced4693839e15be69c383d5 **
